@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "image": "https://media.istockphoto.com/id/1424891365/photo/two-leather-mens-wallets-on-a-textured-wooden-background-one-wallet-is-open-the-other-is.webp?b=1&s=170667a&w=0&k=20&c=RYJRcU865MVDzwJ2COsW7a_HpMVhbkMaFBAp6lU1DGw=",
+    "title": "Premium Leather Wallet",
+    "description": "Handcrafted leather wallet with multiple card slots and a spacious cash compartment.",
+    "price": 49.99,
+    "category": "Fashion"
+  },
+  {
+    "id": 2,
+    "image": "https://media.istockphoto.com/id/1332655073/photo/smartphone-charging-on-wireless-pad-in-room-space-for-text.webp?b=1&s=170667a&w=0&k=20&c=eoWbf6HABYx0Qnh3yDGlixFWCvvPObr1NYU-EZor2TA=",
+    "title": "Smartphone Stand and Charger",
+    "description": "Convenient smartphone stand with built-in wireless charger. Perfect for desk or bedside use.",
+    "price": 39.95,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "image": "https://media.istockphoto.com/id/1498169390/photo/yellow-cup-and-tea-pot-and-on-wooden-tray-and-plant-pot-on-wooden-table.webp?b=1&s=170667a&w=0&k=20&c=7A2dlu6TdF5U_7OXSv6fTi3V0p4eXQ_RD2jXF6Vld5U=",
+    "title": "Stainless Steel Coffee Maker",
+    "description": "Durable coffee maker with a sleek stainless steel design. Brews rich and flavorful coffee every time.",
+    "price": 79.99,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": 4,
+    "image": "https://media.istockphoto.com/id/1363897157/photo/wireless-in-ear-headphones-insulated-with-black-leather-on-a-white-background.webp?b=1&s=170667a&w=0&k=20&c=mIsIC3vfgFyqR-_72fhs6V69fyXXpEpJgHHhVv1RZbQ=",
+    "title": "Noise-Canceling Headphones",
+    "description": "High-quality headphones with active noise cancellation technology for immersive music experience.",
+    "price": 149.95,
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "image": "https://media.istockphoto.com/id/542551148/photo/travel-photographer-equipment-with-beautiful-landscape.webp?b=1&s=170667a&w=0&k=20&c=o34OEnTZKYogNrfW0eei9Juokm7-OxEkkFJPgAkX0t0=",
+    "title": "Professional Camera Backpack",
+    "description": "Spacious camera backpack with padded compartments for cameras, lenses, and accessories.",
+    "price": 69.99,
+    "category": "Photography"
+  },
+  {
+    "id": 6,
+    "image": "https://media.istockphoto.com/id/1405369171/photo/3d-render-illustration-sport-fitness-equipment-male-and-female-concept-yoga-mat-bottle-of.webp?b=1&s=170667a&w=0&k=20&c=vBMb6veKHkU565FLZGIiUagqKOQDiDcNRCk6HMfU7BA=",
+    "title": "Fitness Activity Tracker",
+    "description": "Water-resistant fitness tracker with heart rate monitor and GPS tracking for accurate health data.",
+    "price": 89.50,
+    "category": "Fitness"
+  },
+  {
+    "id": 7,
+    "image": "https://media.istockphoto.com/id/1428108147/photo/close-up-there-are-big-headphones-and-a-small-mini-music-bluetooth-portable-black-cylinder.webp?b=1&s=170667a&w=0&k=20&c=GfEOqVEUAZ6z0-mJNtgzo1Z32rqn3uPq3hxcdlQb-lY=",
+    "title": "Portable Bluetooth Speaker",
+    "description": "Compact Bluetooth speaker with deep bass and clear sound quality. Perfect for outdoor gatherings.",
+    "price": 29.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 8,
+    "image": "https://media.istockphoto.com/id/542589774/photo/design-concept-of-mockup-arious-kitchenware-utensils-set-on-whit.webp?b=1&s=170667a&w=0&k=20&c=oqsrVSe1CJgRp-G8PiomX6zZhCPQPbwRtJXStaEqYZY=",
+    "title": "Gourmet Kitchen Knife Set",
+    "description": "High-quality knife set with sharp blades and ergonomic handles for precise and comfortable cutting.",
+    "price": 129.99,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": 9,
+    "image": "https://media.istockphoto.com/id/133686090/photo/bedroom.webp?b=1&s=170667a&w=0&k=20&c=LIiiZxsn9Uf8k9Rikln72gFT08fANoBpZg_FhuaaXfU=",
+    "title": "Luxury Silk Pillowcase Set",
+    "description": "Silk pillowcase set that promotes healthy hair and skin. Provides a luxurious sleeping experience.",
+    "price": 45.00,
+    "category": "Bedroom"
+  },
+  {
+    "id": 10,
+    "image": "https://media.istockphoto.com/id/1448130237/photo/closeup-of-a-glass-cup-with-fresh-coffee-from-a-capsule-coffee-machine.webp?b=1&s=170667a&w=0&k=20&c=rdsKZFg4ha6n-zlRDpxA4vo1wncSlVxZE-6Sc3gaDyE=",
+    "title": "Automatic Espresso Machine",
+    "description": "State-of-the-art espresso machine with programmable features and frothing wand for cafe-quality drinks at home.",
+    "price": 349.95,
+    "category": "Kitchen Appliances"
+  },
+  {
+    "id": 11,
+    "image": "https://media.istockphoto.com/id/483407246/photo/sunglasses-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=wu8GaNIhijBEo58NP8rhXI7I2YQIM6SBhSByhbwo5Mg=",
+    "title": "Designer Sunglasses",
+    "description": "Fashionable sunglasses with UV protection lenses. Enhance your style with these trendy eyewear.",
+    "price": 79.99,
+    "category": "Fashion"
+  },
+  {
+    "id": 12,
+    "image": "https://media.istockphoto.com/id/1356760493/photo/above-view-of-a-workspace-with-empty-digital-tablet-screen.webp?b=1&s=170667a&w=0&k=20&c=Fl35xdD-ALpOysR4eNdyKfC7zNaVUH3OaDZE33rCiPQ=",
+    "title": "Digital Drawing Tablet",
+    "description": "Graphic tablet with pressure-sensitive pen for digital artists and illustrators. Create stunning artwork effortlessly.",
+    "price": 199.00,
+    "category": "Electronics"
+  },
+  {
+    "id": 13,
+    "image": "https://media.istockphoto.com/id/1409107096/photo/front-view-of-black-leather-backpack.webp?b=1&s=170667a&w=0&k=20&c=IqLSgspCIaxWGif4v-8lrSEnVTZGTeEn9uc7Owe3GIU=",
+    "title": "Premium Leather Travel Bag",
+    "description": "Spacious travel bag made from genuine leather. Ideal for weekend getaways or business trips.",
+    "price": 149.50,
+    "category": "Travel"
+  },
+  {
+    "id": 14,
+    "image": "https://media.istockphoto.com/id/1148869269/photo/alarm-system-dark-background-illustration-3d.webp?b=1&s=170667a&w=0&k=20&c=3DxCl5OgrCjRbiMQpHeNty06ThixW0MNdCRaS9LSU_E=",
+    "title": "Home Security Camera System",
+    "description": "Smart security camera system with HD video quality and motion detection. Keep your home safe and secure.",
+    "price": 179.95,
+    "category": "Home Security"
+  },
+  {
+    "id": 15,
+    "image": "https://media.istockphoto.com/id/1024577404/photo/various-hair-dresser-tools-on-pink-background-with-copy-space.webp?b=1&s=170667a&w=0&k=20&c=mA-bZlL8cvOMR3Rs4XiLBslwxqzL3Sdtsx65svxqgQk=",
+    "title": "Professional Hair Dryer",
+    "description": "Powerful hair dryer with multiple heat and speed settings. Achieve salon-quality results at home.",
+    "price": 69.99,
+    "category": "Beauty"
+  },
+  {
+    "id": 16,
+    "image": "https://media.istockphoto.com/id/457980249/photo/place-settings-on-elegant-dining-table.webp?b=1&s=170667a&w=0&k=20&c=DhwzVbmOqG3kd1uiJPC2658SlX7BYUGqpoHnCiyC7PE=",
+    "title": "Modern Glass Dining Table",
+    "description": "Elegant dining table with tempered glass top and sturdy metal legs. Adds a touch of sophistication to your dining area.",
+    "price": 299.00,
+    "category": "Furniture"
+  },
+  {
+    "id": 17,
+    "image": "https://media.istockphoto.com/id/1456706778/photo/foldable-wireless-charger-isolated-on-white-background-wireless-charging-pad-mobile-phones.webp?b=1&s=170667a&w=0&k=20&c=YsC4Td-2jiM_4VcjKYn0YCLK7wS5flP4E2vtX-WtpB8=",
+    "title": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad compatible with various smartphones. Keep your devices charged without the hassle of cables.",
+    "price": 24.95,
+    "category": "Electronics"
+  },
+    {
+      "id": 18,
+      "image": "https://media.istockphoto.com/id/1358576431/photo/memory-foam-orthopedic-mattress-at-home.webp?b=1&s=170667a&w=0&k=20&c=B-E7SjSneJA8BFi_KLn4BpfHS508xT9nuhxqvPDKx40=",
+      "title": "Memory Foam Mattress",
+      "description": "Premium memory foam mattress for ultimate comfort and support. Enjoy a restful night's sleep every night.",
+      "price": 599.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 19,
+      "image": "https://media.istockphoto.com/id/1319788987/photo/regulating-heating-temperature-with-a-modern-smart-thermostat.webp?b=1&s=170667a&w=0&k=20&c=J_iIK_UmarMWHYG8Y41B3XqfyV8hpEBnNDk3iAtX40s=",
+      "title": "Smart Home Thermostat",
+      "description": "Intelligent thermostat that learns your preferences and adjusts the temperature for energy efficiency and comfort.",
+      "price": 129.00,
+      "category": "Furniture"
+    },
+    {
+      "id": 20,
+      "image": "https://media.istockphoto.com/id/1468471413/photo/mock-up-poster-with-two-frames-on-the-wall-in-home-bedroom-interior.webp?b=1&s=170667a&w=0&k=20&c=QtrEolX-14XZNsAnZfIP0x_Epm9J41UMSb40Thy3AFM=",
+      "title": "Modern Wall Art Painting",
+      "description": "Contemporary wall art painting on canvas. Elevate your home decor with this eye-catching piece of art.",
+      "price": 89.95,
+      "category": "Fashion"
+    }
+  ]
+  
