@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import productsData from '../public/products.json'; // Sample product data
+import productsData from '../public/products.json';
 import ProductList from './components/ProductList';
 import Pagination from './share/Pagination';
 import { AppContainer, FilterContainer } from './share/styles';
